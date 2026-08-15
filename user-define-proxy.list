@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,ovhcloud.com
 DOMAIN-SUFFIX,tld-list.com
 DOMAIN-SUFFIX,gradle.org
 DOMAIN-SUFFIX,wireshark.org
+DOMAIN-SUFFIX,dash.pqjc.site
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
